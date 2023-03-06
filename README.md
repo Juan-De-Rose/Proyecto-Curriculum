@@ -6,26 +6,17 @@ Proyecto front end de rose jaun domingo
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Funciones en javascript</title>
+    <title>Primera prueba escritura html</title>
 </head>
 <body>
-
-    <form action="">
-        <label>Numero 1
-            <input type="number" id="numero1" required>
-        </label>
-        <label>Numero 2
-            <input type="number" id="numero2" required>
-        </label>
-
-        <button type="button" id="sumar">realizar suma</button>
-       
-    </form>
-    
-    <div id="contenedorResultado"  style="display: none;">
-        El resultado de la suma es <p id="resultado"></p>
-    </div>
-    <script src="C:\Users\jdderose\Desktop\visual studio code\css\TRABAJO FINAL\suma.js"></script>
-
+    <h1>Título 1</h1>
+    <h1>Título 1.5</h1>
+    <h2>Título 2</h2>
+    <h3>Título 3</h3>
+    <h4>Título 4</h4>
+    <h5>Título 5</h5>
+    <h6>Título 6</h6>
+    <p>Hola Mundo!!</p>
+    <p>soy del lobo</p>
 </body>
 </html>
