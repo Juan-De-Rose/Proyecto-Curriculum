@@ -6,17 +6,28 @@ Proyecto front end de rose jaun domingo
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Primera prueba escritura html</title>
+    <title>Proyecto Integrados Front end</title>
+    <link rel="stylesheet" href="C:\Users\jdderose\Desktop\visual studio code\css\estilos-proyecto-final.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,100&family=Shantell+Sans:wght@300&display=swap" rel="stylesheet">
 </head>
 <body>
-    <h1>Título 1</h1>
-    <h1>Título 1.5</h1>
-    <h2>Título 2</h2>
-    <h3>Título 3</h3>
-    <h4>Título 4</h4>
-    <h5>Título 5</h5>
-    <h6>Título 6</h6>
-    <p>Hola Mundo!!</p>
-    <p>soy del lobo</p>
+    <header>
+        <img src="https://randomuser.me/api/portraits/men/75.jpg" alt="Imagen de prueba">
+        <div>
+        <h1>De Rose Juan Domingo</h1>
+        <h6>Nodocente</h6>
+        </div>
+    </header>
+    <section>
+        <article>
+        <h2>Información profecional</h2>
+        
+        </article>
+        <aside>
+        <h2>Información academica</h2>
+        </aside>
+    </section>
 </body>
 </html>
