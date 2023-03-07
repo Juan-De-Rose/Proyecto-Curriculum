@@ -22,8 +22,7 @@ Proyecto front end de rose jaun domingo
     </header>
     <section>
         <article>
-        <h2>Información profecional</h2>
-        
+            <h2>Información profecional</h2>
         </article>
         <aside>
         <h2>Información academica</h2>
