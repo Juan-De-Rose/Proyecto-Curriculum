@@ -6,7 +6,7 @@ Proyecto front end de rose jaun domingo
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Proyecto Integrados Front end </title>
+    <title>Proyecto Integrados Front end</title>
     <link rel="stylesheet" href="C:\Users\jdderose\Desktop\visual studio code\css\estilos-proyecto-final.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,7 +22,12 @@ Proyecto front end de rose jaun domingo
     </header>
     <section>
         <article>
-            <h2>Información profecional</h2>
+        <h2>Información profecional</h2>
+        <ul>
+            <li>
+                Experiencia atencion al publico
+            </li>
+        </ul>
         </article>
         <aside>
         <h2>Información academica</h2>
